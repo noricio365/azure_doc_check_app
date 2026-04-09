@@ -1,5 +1,8 @@
 # Azure Doc Check App
 
+## Description
+This app reads contracts and regulations documents and uses OCR and AI to extract summaries and important points.
+
 ## 概要
 契約書や規約文書を読み込み、OCRとAIを用いて要約や注意点を抽出するアプリです。
 
