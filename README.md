@@ -27,13 +27,13 @@ streamlit run azure_doc_check_app.py
 
 ## デモ
 ①ドキュメントをアップ
-![demo](images/step1.png)
+![demo](https://github.com/user-attachments/assets/74cf9ec8-6a9c-476f-9a1f-a26889d164a3)
 
 ②テキストの読み込み
-![demo](images/step2.png)
+![demo](https://github.com/user-attachments/assets/f9d8cf41-08f5-46d1-ae49-d13dfd8d6c8f)
 
 ③AIが分析中…
-![demo](images/step3.png)
+![demo](https://github.com/user-attachments/assets/e156934f-f797-42ff-b58a-156ef606e726)
 
 ④要約と分析結果
-![demo](images/step4.png)
+![demo](https://github.com/user-attachments/assets/dbeea1a6-403e-4b3c-a994-3ef629ffa7b7)
